@@ -1,11 +1,4 @@
-/*
-  Theme Name: Stellar - Creative & Agency Responsive HTML5 Template
-  Theme URL: http://themewar.com/html/stellar
-  Author: ThemeWar
-  Author URI: http://themewar.com
-  Description: Stellar is a Premium One page creative responsive HTML5 template best suitable for Design agencies, freelancers, photographers, personal portfolios etc. The template comes with 3 Home Page designs with blog pages.
-  Version: 1.0
-*/
+
 
 /*=======================================================================
 [Table of contents]
@@ -61,18 +54,18 @@
 /*=======================================================================
 // Page Area
 =========================================================================*/
-.animat { 
-    -webkit-transition: all 0.5s ease; 
-    -moz-transition: all 0.5s ease; 
-    -o-transition: all 0.5s ease; 
-    -ms-transition: all 0.5s ease; 
-    transition: all 0.5s ease; 
+.animat {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 }
-.menuOpened #page { 
-    margin-left: -300px; width: 100%; 
+.menuOpened #page {
+    margin-left: -300px; width: 100%;
 }
-body.menuOpened { 
-    overflow: hidden; 
+body.menuOpened {
+    overflow: hidden;
 }
 body.bodyoverflos{
     overflow: hidden;
@@ -1289,7 +1282,7 @@ body.menuOpened .sideMenuArea{
 .folioNav2 ul li{
     font-weight: 700;
     letter-spacing: 2px;
-    line-height: .8;   
+    line-height: .8;
 }
 .folioNav2 ul li:after{
     background: #b89840;
@@ -2723,7 +2716,7 @@ body.menuOpened .sideMenuArea{
 
 
 /*=======================================================================
-// Contact Section 
+// Contact Section
 =========================================================================*/
 .contactSection{
     width: 100%;
@@ -3486,7 +3479,7 @@ button.submita:hover{
     border: none;
     background: none;
 }
-.commentTabs ul li.active a, .commentTabs ul li.active a:hover, .commentTabs ul li a:hover, 
+.commentTabs ul li.active a, .commentTabs ul li.active a:hover, .commentTabs ul li a:hover,
 .commentTabs ul li a:focus, .commentTabs ul li:focus a{
     background: #29a3e7;
     color: #FFF;

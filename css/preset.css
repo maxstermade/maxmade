@@ -1,11 +1,4 @@
-/*
-  Theme Name: Stellar - Creative & Agency Responsive HTML5 Template
-  Theme URL: http://themewar.com/html/stellar
-  Author: ThemeWar
-  Author URI: http://themewar.com
-  Description: Stellar is a Premium One page creative responsive HTML5 template best suitable for Design agencies, freelancers, photographers, personal portfolios etc. The template comes with 3 Home Page designs with blog pages.
-  Version: 1.0
-*/
+
 
 /*=======================================================================
 // Fonts
@@ -67,7 +60,7 @@ a:focus{
     letter-spacing: 2px;
     padding-bottom: 20px;
     line-height: .8;
-    
+
 }
 .learnMoreButton2:after{
     width: 40px;
@@ -93,7 +86,7 @@ a:focus{
     letter-spacing: 2px;
     padding-bottom: 20px;
     line-height: .8;
-    
+
 }
 .learnMoreButton3:after{
     width: 40px;
